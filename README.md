@@ -18,7 +18,7 @@ Développement d'un script d'automatisation pour surveiller les ressources criti
 
 
 ### 2. Durcissement (Hardening) & Sécurité Réseau
-* **Script :** [Lien vers Config_Firewall.ps1](./Scripts/Config_Firewall.ps1)
+* **Script :** [Config_Firewall.ps1](./Scripts/Config_Firewall.ps1)
 * **Méthode :** Analyse des ports ouverts et fermeture des protocoles non essentiels.
 
 ### 3. Gestion de Serveur de Fichiers (NTFS)
