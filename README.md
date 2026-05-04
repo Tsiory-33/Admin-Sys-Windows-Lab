@@ -15,7 +15,7 @@ Ce dépôt représente des projets personnels en administration Windows réalis�
 Développement d'un script d'automatisation pour surveiller les ressources critiques.
 * **Fonctions :** Analyse de l'espace disque, monitoring de la RAM, détection des processus gourmands.
 * **Compétence :** Scripting et WMI.
-* **Script :** [Audit_Systeme.ps1].(./Scripts/Audit_Systeme.ps1)
+* **Script :** [Audit_Systeme.ps1](./Scripts/Audit_Systeme.ps1)
 
 
 ### 2. Durcissement (Hardening) & Sécurité Réseau
