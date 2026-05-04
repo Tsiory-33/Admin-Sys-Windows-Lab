@@ -2,7 +2,7 @@
    <br>Création du dossier : LAB_SERVER  
    <br>![1](./Images/01.PNG)
    <br>LAB_SERVER/Directeur
-   <br>[2](./Images/02.PNG)
+   <br>![2](./Images/02.PNG)
 ### II. Désactivation de l'héritage
    <br>![1](./Images/03.PNG)
    <br>![2](./Images/04.PNG)
