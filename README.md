@@ -1,6 +1,6 @@
 # Laboratoire d'Administration Système & Réseau (Windows)
 
-Ce dépôt regroupe mes projets personnels réalisés durant ma 3ème année de licence informatique pour approfondir mes compétences en administration Windows.
+Ce dépôt représente des projets personnels en administration Windows réalisés pour approfondir les connaissances de base aqcuises durant mes études.
 
 ## 🛠 Environnement Technique
 * **OS :** Windows 10 Pro
